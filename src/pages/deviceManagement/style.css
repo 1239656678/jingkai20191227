@@ -1,0 +1,35 @@
+.btn{
+    width:62px;
+    height:30px;
+    background:rgba(65,136,242,1);
+    border-radius:6px;
+    font-size:14px;
+    line-height:20px;
+    color: #FFFFFF;
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+
+.formInput{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.search{
+    width:62px;
+    height:30px;
+    background:rgba(65,136,242,1);
+    border-radius:6px;
+    color: #fff;
+    font-size: 14px;
+}
+.equipment{
+    width:84px;
+    height:30px;
+    background:rgba(65,136,242,1);
+    border-radius:6px;
+    font-size:14px;
+    color: #fff;
+    line-height:20px;
+}

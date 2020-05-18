@@ -1,0 +1,32 @@
+.operate{
+    display: flex;
+}
+.formInput{
+    display: flex;
+    justify-content: space-between;
+}
+.btn,.search{
+    width:62px;
+    height:30px;
+    background:rgba(65,136,242,1);
+    border-radius:6px;
+    color: #fff;
+    font-size: 14px;
+}
+.imgs{
+    width : 33%;
+    height : 66px;
+    border-radius : 3px;
+    border : 1px dotted #E2E2E2;
+}
+.imgStyle{
+    width : 49px;
+    height : 66px;
+}
+.repairNews{
+    font-size : 16px;
+    font-weight:bold;
+    line-height:22px;
+    color : #333333;
+    margin : 10px 0px 20px;
+}
